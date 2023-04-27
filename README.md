@@ -1,4 +1,4 @@
-# covid19-dio
+# Recriando o famoso jogo do dinossauro sem internet
 
 Desenvolvendo jogo do dinossauro sem internet com html, css e javascript.
 
